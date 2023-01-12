@@ -1,3 +1,8 @@
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="350"/>
+</div>
+
+
 <h1> Hello Fellow < Developers/ >!
 <p align='center'>
 </p>
@@ -13,7 +18,7 @@
   <a href="#" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>  
- <a href="https://www.hackerrank.com/PabloCJ" target="_blank">
+  <a href="https://www.hackerrank.com/PabloCJ/" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
