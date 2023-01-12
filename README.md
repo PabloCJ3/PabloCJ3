@@ -1,9 +1,10 @@
-<div id="header">
+<div align="center">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="300"/>
 </div>
 
 
-<h1> Hello Fellow < Developers/ >!
+<h1 align="center"> Hello Fellow < Developers/ >!
 <p align='center'>
 </p>
 
@@ -38,15 +39,16 @@
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p>
-    <img alt="Pablo's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=PabloCJ3&theme=prussian&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
 <br/>
-  &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloCJ3&show_icons=true&locale=en&layout=compact&theme=algolia" alt="PabloCC3" height="192px"/>
-  <br/>
-  </p>
+<div align="center">
+    
+<p diplay="inline">
+    <img alt="Pablo's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=PabloCJ3&theme=prussian&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
+</p>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+</div>
 
 <br/>
 
@@ -56,7 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PabloCJ3&repo=TermoKalker&theme=onedark" />
 </a>  
 
-
+</div>
 
 
 ----------------------------------------------------------------------
