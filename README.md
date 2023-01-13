@@ -38,24 +38,22 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
     
-<div align="center">
+
     
-<h2> 💻 Github Stats 💻<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2>Github Stats<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <br/>
-<div align="center">
+
     
 <p>
-    <img alt="Pablo's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=PabloCJ3&theme=prussian&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
+    <img alt="Pablo's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=PabloCJ3&theme=prussian&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" height="192px"/></a>
 </p>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCJ3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-</div>
 
 <br/>
 
-</div>
 
 
 ----------------------------------------------------------------------
