@@ -3,7 +3,7 @@
 </div>
 
 
-<h1> Hello Fellow < Developers/ >!
+<h1> Hello Fellow < Developers/ >!</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Profile!;I'm+Software+Engineering+Student" alt="Typing SVG" /></a>
 
